@@ -1,0 +1,13 @@
+@import url(./sections/Task1Section.css);
+@import url(./sections/Task2Section.css);
+@import url(./sections/Task3Section.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+

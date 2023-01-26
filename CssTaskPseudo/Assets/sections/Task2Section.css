@@ -1,0 +1,42 @@
+#Task2 div span {
+    font-size: 50px;
+    
+    
+}
+#Task2 div span span{
+    font-weight: 600;
+    display: flex;
+    
+    
+    
+}
+#Task2 div{
+    position: relative;
+    left: 100px;
+    
+}
+#Task2 p {
+    width: 550px;
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+#Task2 div>span::after{
+    content: "";
+    position: absolute;
+
+    background-color: rgb(230, 22, 22);
+    width: 100px;
+    height: 10px;
+    
+
+
+    
+}
+
+#Task2 {
+    height: 300px;
+    position: relative;
+    top: 40px;
+}

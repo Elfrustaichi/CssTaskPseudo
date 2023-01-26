@@ -1,0 +1,25 @@
+#Task3 div {
+    
+    width: 200px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+#Task3 {
+    display: flex;
+    position: relative;
+    left: 100px;
+    
+}
+#Task3 div h5 {
+    
+    
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#Task3 div b {
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
